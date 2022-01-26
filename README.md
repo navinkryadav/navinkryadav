@@ -1,6 +1,6 @@
 <div class="bg-gray-dark">
 
-### Hi there, I’m @navinkryadav👋
+### Hi there, I’m [@navinkryadav](navinkryadav.github.io/portfolio)👋
 
 <a href="https://www.linkedin.com/in/navinkryadav/">
   <img align="left" alt="LinkedIn" width="21px" title="LinkedIn" src="https://github.com/navinkryadav/Logo/blob/master/linkedin.png" />
